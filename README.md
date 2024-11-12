@@ -1,4 +1,4 @@
-# Python Jumpstart by Building 10 Apps Course Demos
+# Python Jumpstart by Building 10 Apps Course solutions
 
 This repository contains solutions for all tasks/apps from [Python Jumpstart by Building 10 Apps course](https://training.talkpython.fm/courses/details/python-language-jumpstart-building-10-apps) course.
 
